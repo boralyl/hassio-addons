@@ -1,6 +1,6 @@
 {
   "name": "Remote Backup",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "slug": "remote_backup",
   "description": "Exploit snapshots and SCP to create remote backups to specified server",
   "url": "https://github.com/boralyl/hassio-remote-backup",
